@@ -1,0 +1,23 @@
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\AdventOfCoding2017.vbprojResolveAssemblyReference.cache
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\AdventOfCoding2017.vbproj.GenerateResource.Cache
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\fad8611\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AdventOfCoding2017.exe.config
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\bin\Debug\AdventOfCoding2017.exe.config
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.vbprojResolveAssemblyReference.cache
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.frmMain.resources
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.Resources.resources
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.vbproj.GenerateResource.Cache
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.xml
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\bin\Debug\AdventOfCoding2017.exe
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\bin\Debug\AdventOfCoding2017.pdb
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\bin\Debug\AdventOfCoding2017.xml
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.exe
+\\corp.troweprice.net\users\fad8611\Visual Studio 2015\Projects\AdventOfCoding2017\AdventOfCoding2017\obj\Debug\AdventOfCoding2017.pdb
